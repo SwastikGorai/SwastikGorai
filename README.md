@@ -107,5 +107,5 @@
 <br/>
 
 
-![footer](WEBP/footer.webp)
+![footer](sides/footer.webp)
 ----
