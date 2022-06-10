@@ -77,13 +77,24 @@
 
 
 ## Github Stats  
+<table><tr><td valign="top" width="50%">
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastikgorai&hide_border=true&layout=compact" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=swastikgorai&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=swastikgorai&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
 
 <br/>  
 
+
+## Recent Blog Posts  
   
+
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=anxiyrp83sla04tioxvix7sis&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
@@ -102,4 +113,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
