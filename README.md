@@ -78,8 +78,20 @@
 
 ## Github Stats  
 ![swastikgorai's Stats](https://github-readme-stats.vercel.app/api?username=swastikgorai&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+<br/>
+
+<p>
+  
 ![swastikgorai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=swastikgorai&theme=dark&hide_border=false)
+ 
+</p>
+
+<p>
+  
 ![swastikgorai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastikgorai&theme=dark&show_icons=true&hide_border=false&layout=compact)
+ 
+ </p>
 
 
 ## Contributions
