@@ -79,9 +79,15 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastikgorai&hide_border=true&layout=compact" align="center" /></div>  
 
+<br/>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=swastikgorai&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+## Contributions
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=swastikgorai&bg_color=000000&color=cda7e6&line=a559e3&point=00fbff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Spotify Listening  
