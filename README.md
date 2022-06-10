@@ -77,10 +77,12 @@
 
 
 ## Github Stats  
-![swastikgorai's Stats](https://github-readme-stats.vercel.app/api?username=swastikgorai&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
-![swastikgorai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=swastikgorai&theme=nightowl&hide_border=false)
-<br/>
-![swastikgorai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastikgorai&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastikgorai&show_icons=true&locale=en&layout=compact" alt="swastikgorai" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swastikgorai&show_icons=true&theme=dracula&locale=en" alt="swastikgorai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swastikgorai&theme=dark" alt="swastikgorai" /></p>
+
 
 ## Contributions
 
