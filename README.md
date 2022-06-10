@@ -77,13 +77,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastikgorai&hide_border=true&layout=compact" align="center" /></div>  
-
+![swastikgorai's Stats](https://github-readme-stats.vercel.app/api?username=swastikgorai&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 <br/>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=swastikgorai&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+![swastikgorai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=swastikgorai&theme=nightowl&hide_border=false)
+<br/>
+![swastikgorai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastikgorai&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
 ## Contributions
 
