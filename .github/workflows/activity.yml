@@ -1,0 +1,29 @@
+name: Activity Graph
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Run the action once a day
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pygithub matplotlib
+      - name: Generate activity graph
+        run: python main.py
+      - name: Update profile
+        uses: softprops/gh-profile-readme-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          file: activity.png
+          message: Update activity graph
