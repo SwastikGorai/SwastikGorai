@@ -24,6 +24,6 @@ jobs:
       - name: Update profile
         uses: softprops/gh-profile-readme-action@v2
         with:
-          token: ${{ secrets.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 }}
+          token: ${{ secrets.PAT }}
           file: activity.png
           message: Update activity graph
