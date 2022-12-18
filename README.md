@@ -84,7 +84,7 @@
 
 ## Contributions
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=swastikgorai&theme=github)]]
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=swastikgorai&theme=github)
 
 
 <br/>
