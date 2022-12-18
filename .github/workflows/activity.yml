@@ -22,7 +22,7 @@ jobs:
       - name: Generate activity graph
         run: python main.py
       - name: Update profile
-        uses: softprops/gh-profile-readme-action@v2
+        uses: peter-evans/create-or-update-file@v2
         with:
           token: ${{ secrets.PAT }}
           file: activity.png
