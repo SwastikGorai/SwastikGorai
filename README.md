@@ -84,7 +84,7 @@
 
 ## Contributions
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=swastikgorai&bg_color=000000&color=cda7e6&line=a559e3&point=00fbff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=swastikgorai&theme=github)]]
 
 
 <br/>
