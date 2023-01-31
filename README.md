@@ -65,19 +65,27 @@
 
 
 ## Connect with me  
+
 <div align="center">
-<a href="https://github.com/swastikgorai" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+
+  
+[<img align="left" alt="LinkedIn" width="33px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="33px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
+  
 </div>  
   
 
 <br/>  
 
 
-## Github Stats  
-![swastikgorai's Stats](https://github-readme-stats.vercel.app/api?username=swastikgorai&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![swastikgorai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=swastikgorai&theme=dark&hide_border=false)
+## Github Stats 
+<div align="center">
+  
+ ![swastikgorai's Stats](https://github-readme-stats.vercel.app/api?username=swastikgorai&theme=dark&show_icons=true&hide_border=false&count_private=true)
+ ![swastikgorai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=swastikgorai&theme=dark&hide_border=false)
+  
+</div>
+
 
  
 
@@ -91,11 +99,13 @@
 
 ![Snake animation](https://github.com/SwastikGorai/SwastikGorai/blob/output/github-contribution-grid-snake.svg)
 
-## Spotify Listening  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=anxiyrp83sla04tioxvix7sis&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
+ 
 
 
 
 
 ![footer](sides/footer.webp)
 ----
+
+[twitter]: https://twitter.com/SwastikGorai?t=SG-7aHyWeZHUu19ZMepC0A&s=09
+[linkedin]: https://www.linkedin.com/in/swastik-gorai-490319231/
