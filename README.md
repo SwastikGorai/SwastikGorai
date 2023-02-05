@@ -105,6 +105,8 @@
 
 
 ![footer](sides/footer.webp)
+[![An image of @swasgo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swasgo)](https://holopin.io/@swasgo)
+
 ----
 
 [twitter]: https://twitter.com/SwastikGorai?t=SG-7aHyWeZHUu19ZMepC0A&s=09
