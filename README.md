@@ -1,6 +1,6 @@
 ### >>cat README.md  ↩️  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+<img src="https://github.com/SwastikGorai/SwastikGorai/blob/main/sides/greetings.gif" align="center" height="" width="600" />
 </div>  
   
 
