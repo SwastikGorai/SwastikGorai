@@ -16,7 +16,6 @@
 - ⚡ Fun fact: I use copy-paste-delete instead of cut-paste😅  
   
 
-![](https://komarev.com/ghpvc/?username=SwastikGorai&color=gray&style=flat)
   
   
 
